@@ -2,13 +2,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Selenium 4 Automation">
     <test name="QA Automation3">
-        <parameter name="Browser" value="MicrosoftEdge"/>
+        <parameter name="browser" value="firefox"/>
         <classes>
             <class name="runner.TestRunner"></class>
         </classes>
     </test>
     <test name="QA Automation3">
-        <parameter name="Browser" value="MicrosoftEdge"/>
+        <parameter name="Browser" value="firefox"/>
         <classes>
             <class name="runner.TestRunner"></class>
         </classes>

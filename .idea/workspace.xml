@@ -7,11 +7,8 @@
     <list default="true" id="20f45956-a5b1-4529-a10e-c141f5a678f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/commonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/commonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/cucumber-reports.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,8 +113,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestRunner" />
-        <item itemvalue="Application.Practice" />
         <item itemvalue="TestNG.C:/Users/farha/IdeaProjects/BDD-Selenium/testng.xml" />
+        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
